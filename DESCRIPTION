@@ -1,6 +1,6 @@
 Package: trump
 Type: Package
-Title: Instantly segfault your R session
+Title: Instantly Segfault Your R Session
 Version: 2016.11.08
 Author: USA
 Maintainer: Romain Francois <romain@purrple.cat>
