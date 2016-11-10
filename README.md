@@ -13,7 +13,6 @@ This will instantly segfault your R session.
 
 ```
 > require(trump)
-> require(trump)
 Loading required package: trump
 
  *** caught illegal operation ***
