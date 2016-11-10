@@ -4,6 +4,6 @@ Title: Instantly segfault your R session
 Version: 2016.11.08
 Author: USA
 Maintainer: Romain Francois <romain@purrple.cat>
-Description: Instantly segfault your R session
+Description: Instantly segfault your R session.
 License: GPL-3
 
