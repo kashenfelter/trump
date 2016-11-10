@@ -3,6 +3,7 @@ Type: Package
 Title: Instantly segfault your R session
 Version: 2016.11.08
 Author: USA
-Maintainer: Romain François <romain@purrple.cat>
+Maintainer: Romain Francois <romain@purrple.cat>
 Description: Instantly segfault your R session
-License: To Kill
+License: GPL-3
+
