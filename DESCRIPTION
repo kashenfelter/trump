@@ -1,0 +1,8 @@
+Package: trump
+Type: Package
+Title: Instantly segfault your R session
+Version: 2016.11.08
+Author: USA
+Maintainer: Romain François <romain@purrple.cat>
+Description: Instantly segfault your R session
+License: To Kill
