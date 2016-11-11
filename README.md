@@ -1,13 +1,13 @@
 
 # Instantly segfault your R session
 
+[![Travis-CI Build Status](https://travis-ci.org/romainfrancois/trump.svg?branch=master)](https://travis-ci.org/romainfrancois/trump)
+
 ```
 require(trump)
 ```
 
 This will instantly segfault your R session. Is that useful, probably not, but so what. 
-
-The [![Travis-CI Build Status](https://travis-ci.org/romainfrancois/trump.svg?branch=master)](https://travis-ci.org/romainfrancois/trump) badge is expected. 
 
 ## Installing 
 
