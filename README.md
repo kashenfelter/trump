@@ -1,13 +1,21 @@
 
-[![Travis-CI Build Status](https://travis-ci.org/romainfrancois/trump.svg?branch=master)](https://travis-ci.org/romainfrancois/trump)
-
 # Instantly segfault your R session
 
 ```
 require(trump)
 ```
 
-This will instantly segfault your R session. 
+This will instantly segfault your R session. Is that useful, probably not, but so what. 
+
+The [![Travis-CI Build Status](https://travis-ci.org/romainfrancois/trump.svg?branch=master)](https://travis-ci.org/romainfrancois/trump) badge is expected. 
+
+## Installing 
+
+`trump` probably will never go to CRAN, but then again you never know, in the meantime you can install it from github using 
+
+```
+install_github("romainfrancois/trump", args = "--no-test-load" )
+```
 
 ## on the console 
 
