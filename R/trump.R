@@ -3,6 +3,6 @@
   check   <- Sys.getenv("_R_CHECK_SIZE_OF_TARBALL_") != ""
 
   if( !INSTALL && !check ){
-    .C("trump")
+    get("attach")( structure(list(), class = "UserDefinedDatabase")  )
   }
 }
