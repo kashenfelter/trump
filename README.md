@@ -11,7 +11,7 @@ require(trump)
 
 This will instantly segfault your R session. Is that useful, probably not, but so what. 
 
-![](https://giphy.com/embed/3oKIPx8H70SsclhKkE)
+<iframe src="https://giphy.com/embed/3oKIPx8H70SsclhKkE" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trump-r-segfault-3oKIPx8H70SsclhKkE">via GIPHY</a></p>
 
 ## Installing 
 
