@@ -1,4 +1,6 @@
 
+![trump](images/trump.png)
+
 # Instantly segfault your R session
 
 [![Travis-CI Build Status](https://travis-ci.org/romainfrancois/trump.svg?branch=master)](https://travis-ci.org/romainfrancois/trump)
@@ -57,5 +59,5 @@ Selection:
 
 ## In RStudio
 
-![trump](images/trump.png)
+![trump](images/abort.png)
 
